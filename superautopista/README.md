@@ -49,10 +49,10 @@ En lugar de quedar atrapado en una línea de pensamiento o con una meta B, con m
 
 El atajo: durante más de 15 años me he esforzado en adquirir el conocimiento que hoy en día estoy transmitiendo a otras personas. Al no tener un camino bien definido, he tenido que trabajar duro sin atajos. Aunque sigo aprendiendo, he cambiado la estrategia, buscando mentores o “superautopistas” que me ayuden a encontrar los atajos para descubrir nuevas metas.
 
-Para mis alumnos intento ser una superautopista. Lo que intento hacer:
+Para mis alumnos intento ser una superautopista. Lo que intento enseñarles:
 * en qué orden debería entender y estudiar el material que les estoy proporcionando;
-* enseñarles el valor y la relación que hay entre tecnología y marketing digital, con la ayuda de casos reales que ellos mismos pueden ejecutar más tarde, paso a paso;
-* enseñarles que hay otras metas...
+* el valor y la relación que hay entre tecnología y marketing digital, con la ayuda de casos reales que ellos mismos pueden ejecutar más tarde, paso a paso;
+* que hay otras metas...
 * que todo depende del compromiso y la dedicación de cada uno, y que las cosas cambian tanto que deberían tener una mentalidad abierta de “long life learner” + “maker”;  
 
 
