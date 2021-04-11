@@ -1,40 +1,43 @@
 # **Superautopista**
 
-“Cuando tenemos metas, tendemos a aferrarnos a ellas muy fuertemente. Entonces, si nuestra meta es B (y elegimos B frecuentemente porque estamos mirando en esa dirección) intentamos ir por ella. 
+“Cuando tenemos metas, tendemos a aferrarnos a ellas tan fuertemente que sólo miramos a una dirección. Si nuestra meta es B intentamos ir a por ella sin ninguna duda y sin mirar a ninguna otra parte. 
 
 ![image01](/superautopista/images/image01.jpg?raw=true)
 
-Comenzamos a trabajar, pero el problema es que el espacio puede no ser plano. Sólo parece plano al final. Entonces comenzamos a movernos hacia B y de repente todo se pone muy difícil y luego caemos en un pozo.
+Pensamos que cuando queremos ir desde A hacia B ese proceso será lineal y no nos damos cuenta de que realmente ese proceso está lleno de obstáculos y dificultades. Por lo tanto, ir de A a B es una ilusión que nos creamos nosotros mismos y la realidad es muy diferente.
 
 ![image02](/superautopista/images/image02.jpg?raw=true)
 
-¿Por qué nos está costando tanto? Seguimos luchando hacia B, en parte porque en la escuela nos han dicho que debemos resolver este problema. 
+Durante el proceso nos surgirán varias dudas y problemas que resolver tales como: ¿Por qué nos está costando tanto?, ¿Cómo debo seguir?, ¿Cómo debo resolver el problema?, pero seguiremos luchando hacia nuestro objetivo B porque en la escuela nos han dicho que debemos resolver este problema.
 
-¿Por qué nos aferramos tan fuerte a estas cosas?  
-
-Vayamos a África por un segundo. 
+Vayamos a África por un segundo.
 
 ![image03](/superautopista/images/image03.jpg?raw=true)
 
 video: “**[How to Catch a Baboon](https://www.youtube.com/watch?v=ctol7JwpcuQ&t=3s)**”
 
-Aquí tenemos a un cazador que quiere atrapar a un babuino.  Y la manera en la que lo va a atrapar es haciendo un agujero en este hormiguero, poniendo unas semillas sabrosas en el agujero. 
+En el vídeo nos encontramos con un cazador que quiere atrapar a un babuino. ¿Cómo atrapará al babuino?
 
-Ahí está el joven babuino, mirándolo y preguntándose : “¿qué está pasando? Quizá debería echar un vistazo.”  Cuando se acerca ya puede oler las semillas. Mete la mano y agarra las semillas, pero no las suelta quedándose atrapado. El cazador se acerca, lo ata y se lo lleva. 
+Sencillo, el cazador pondrá semillas sabrosas en un agujero.
 
-El babuino no está lastimado, pero aquí lo que tenemos que entender es que las semillas, este fallo cognitivo que tenemos, así como los babuinos y otros animales, se llama aversión a la pérdida. Una vez que obtenemos algo no queremos soltarlo... 
+El joven babuino, mira al cazador y se pregunta: ¿Qué está pasando?, pero aún así mete la mano y agarra las semillas y al no soltarlas queda atrapado.
 
-Lo mismo ocurre con nosotros. A veces, la meta se vuelve más importante que nuestra propia vida. Y eso, a menudo, nos impide resolver los problemas que necesitan ser resueltos.
+El cazador aprovecha el momento para acercarse, lo ata y se lo lleva sin lastimarlo.
 
-Si fuéramos exploradores, y entendiéramos que cuando las cosas se ponen difíciles quizás deberíamos explorar alrededor, quizás no tendríamos que subir esa colina y luego bajarla y otra vez subirla. 
+Moraleja: El babuino tenía como objetivo las semillas. Una vez que posee ese bien tan preciado, de repente, le entra miedo a perderlas y aparece lo que denominamos “aversión a la pérdida”. Posteriormente todos sabemos lo que pasa. El joven babuino es cazado.
 
-Quizás hay otro camino y puede parecer que nos vamos a tener que alejar de la meta (la línea azul que da la vuelta a la montaña es una **superautopista**). Parece un camino más largo pero nos llevará menos tiempo y menos esfuerzo para llegar ahí.
+Lo mismo ocurre con los humanos. A veces, nuestras metas nos nublan y se vuelven más importantes que nuestra propia vida. Y eso, a menudo, nos impide resolver los problemas que necesitan ser resueltos.
+
+Si fuéramos exploradores, entenderíamos que cuando las cosas se ponen difícil lo mejor que debemos hacer es explorar alrededor y ver posibles alternativas. Nunca un explorador subiría, bajaría y subiría de nuevo una colina.
+
+Quizás hay otro camino y puede parecer que nos vamos a tener que alejar de la meta (la línea azul que da la vuelta a la montaña es una **superautopista**). Parece un camino más largo al principio, pero os aseguro que nos llevará menos tiempo y menos esfuerzo el llegar a nuestro final.
+
 
 ![image04](/superautopista/images/image04.jpg?raw=true)
 
-Si comienzas a usar la ciencia quizás decidas que quieres inventar un avión y volar sobre la colina. Pero una vez que comienzas a hacer ciencia, te aparece una idea aún mayor:
+Si comienzas a usar la ciencia probablemente la mejor solución será inventar un avión y volar sobre la colina. Pero una vez que comienzas a hacer ciencia, estoy seguro que te aparecerán mejores ideas:
 
-Quizás haya un mundo distinto. Quizás haya mucho azul ahí arriba.  Y en este mundo azul hay una meta “C”, y esa es la que realmente quería y no lo sabía.”
+Quizás el mundo que conoces es distinto. Quizás haya mucho más azul arriba del que crees. Y en este mundo azul haya una meta “C” que no te habías planteado, y esa es la que realmente querías y no lo sabías.”
 
 ![image05](/superautopista/images/image05.jpg?raw=true)
 
