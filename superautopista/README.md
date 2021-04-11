@@ -16,7 +16,7 @@ Vayamos a África por un segundo.
 
 ![image03](/superautopista/images/image03.jpg?raw=true)
 
-video: “[How to Catch a Baboon](https://www.youtube.com/watch?v=ctol7JwpcuQ&t=3s)”
+video: “**[How to Catch a Baboon](https://www.youtube.com/watch?v=ctol7JwpcuQ&t=3s)**”
 
 Aquí tenemos a un cazador que quiere atrapar a un babuino.  Y la manera en la que lo va a atrapar es haciendo un agujero en este hormiguero, poniendo unas semillas sabrosas en el agujero. 
 
@@ -36,10 +36,10 @@ Si comienzas a usar la ciencia quizás decidas que quieres inventar un avión y 
 
 Quizás haya un mundo distinto. Quizás haya mucho azul ahí arriba.  Y en este mundo azul hay una meta “C”, y esa es la que realmente quería y no lo sabía.”
 
-![image05](/superautopista/images/image05.jpg?raw=true)](https://www.youtube.com/watch?v=kgmAwnNxdgw)
+![image05](/superautopista/images/image05.jpg?raw=true)
 
 
-fuente: “[Living organisms can’t survive in their own waste products](https://www.youtube.com/watch?v=kgmAwnNxdgw)” - Alan Kay
+fuente: “**[Living organisms can’t survive in their own waste products](https://www.youtube.com/watch?v=kgmAwnNxdgw)**” - Alan Kay
 
 
 
