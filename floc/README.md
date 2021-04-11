@@ -11,4 +11,4 @@
 [![image04](/floc/images/floc04.png?raw=true)](https://www.linkedin.com/posts/eftimiesilviudaniel_googles-floc-is-a-terrible-idea-activity-6773259449709682688-DkE5)
 
 ### We will not build alternate identifiers to track individuals as they browse across the web
-[![image05](/floc/images/floc04.png?raw=true)](https://www.linkedin.com/posts/eftimiesilviudaniel_charting-a-course-towards-a-more-privacy-first-activity-6772918016297447425-6kDI)
+[![image05](/floc/images/floc05.png?raw=true)](https://www.linkedin.com/posts/eftimiesilviudaniel_charting-a-course-towards-a-more-privacy-first-activity-6772918016297447425-6kDI)
