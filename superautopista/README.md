@@ -45,7 +45,7 @@ fuente: “**[Living organisms can’t survive in their own waste products](http
 
 Para explicar el valor real que aporta la asignatura “**[Tecnologías de Big Data al Servicio del Marketing Digital](https://www.edix.com/es/carreras/carreras-growth-marketing/)**” que estoy enseñando en Edix (en breve ya con la tercera generación), utilizo la metáfora de Alan. La misma metáfora puede servir para distintos casos. 
 
-Explorar la idea de quedar atrapado en una línea de pensamiento, en lugar de ir hacia otras que pueden darnos mejores resultados, es algo que hago con mis alumnos. Cada uno arranca la carrera con su meta: de A a B. De camino intento enseñarles la ruta hacia un posible C . 
+En lugar de quedar atrapado en una línea de pensamiento o con una meta B, intento hacerles ver y descubrir nuevas metas ("C" como en el ejemplo de Alan) que pueden ofrecerles mejores resultados. 
 
 El atajo: durante más de 15 años me he esforzado en adquirir el conocimiento que hoy en día estoy transmitiendo a otras personas. Al no tener un camino bien definido, he tenido que trabajar duro sin atajos. Aunque sigo aprendiendo, he cambiado la estrategia, buscando mentores o “superautopistas” que me ayuden a encontrar los atajos para descubrir nuevas metas.
 
