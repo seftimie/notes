@@ -31,19 +31,28 @@
 > It has been shown that the FLoC API allows ad tech companies to enable interest-based advertising without generating fine-grained browsing profiles of users. The FLoC API achieves this by generating k-anonymous cohorts. That is, the API returns a cohort number shared by at least k users. This id can be used as an anonymous replacement of a third-party cookie, allowing ad tech companies to build cohort interest profiles without knowing the identity of a user. While k-anonymity, especially for large values of k, protects users from reidentification, it is well known in the privacy community that this privacy notion can be vulnerable to so-called homogeneity attacks. In the context of the FLoC API, a homogeneity attack corresponds to a scenario where all users that share a cohort number also share a sensitive attribute. For instance, a cohort that consists only of users who visited a website about a rare medical condition. By revealing the cohort of a user, the FLoC API may inadvertently also reveal that a user has investigated that rare medical condition. At a very high level, we want to make sure that no company, including Google, can correlate a
 particular cohort with any sensitive attribute.
 
-### More on Google FLoC
+### [More on Google FLoC](https://www.linkedin.com/posts/eftimiesilviudaniel_silviu-daniel-eftimie-on-linkedin-floc-activity-6784826674560163840-heiC)
 [![image01](/floc/images/floc01.png?raw=true)](https://www.linkedin.com/posts/eftimiesilviudaniel_silviu-daniel-eftimie-on-linkedin-floc-activity-6784826674560163840-heiC)
 
-### I've just gave #FLoC (from The Privacy Sandbox) a spin in Europe. 
+### [I've just gave #FLoC (from The Privacy Sandbox) a spin in Europe.](https://www.linkedin.com/posts/eftimiesilviudaniel_floc-canary-google-activity-6783359006619521024-PGLT))
 [![image02](/floc/images/floc02.png?raw=true)](https://www.linkedin.com/posts/eftimiesilviudaniel_floc-canary-google-activity-6783359006619521024-PGLT)
 
-### Federated Learning (FL)
+### [Federated Learning (FL)](https://www.linkedin.com/posts/eftimiesilviudaniel_google-privacysandbox-floc-activity-6782994620751085568-C09d)
+
+> Third-party cookies track your activity to match id with relevant content and ads. Let's explore a better way. 
+
+> An approach where you're grouped with thousands of others who browse similar sites. Websites can show you relevant content and ads based on the group's interests, without needing to know the individuals. The group is large enough so you blend in the crowd. Your browsing history doesn't leave your browser or device.
+
+> We call it Federated Learning of Cohorts
+
 [![image03](/floc/images/floc03.png?raw=true)](https://www.linkedin.com/posts/eftimiesilviudaniel_google-privacysandbox-floc-activity-6782994620751085568-C09d)
 
-### The technology will avoid the privacy risks of third-party cookies, but it will create new ones in the process
+### [The technology will avoid the privacy risks of third-party cookies, but it will create new ones in the process](https://www.linkedin.com/posts/eftimiesilviudaniel_googles-floc-is-a-terrible-idea-activity-6773259449709682688-DkE5)
+
 [![image04](/floc/images/floc04.png?raw=true)](https://www.linkedin.com/posts/eftimiesilviudaniel_googles-floc-is-a-terrible-idea-activity-6773259449709682688-DkE5)
 
-### We will not build alternate identifiers to track individuals as they browse across the web
+
+### [We will not build alternate identifiers to track individuals as they browse across the web](https://www.linkedin.com/posts/eftimiesilviudaniel_charting-a-course-towards-a-more-privacy-first-activity-6772918016297447425-6kDI)
 [![image05](/floc/images/floc05.png?raw=true)](https://www.linkedin.com/posts/eftimiesilviudaniel_charting-a-course-towards-a-more-privacy-first-activity-6772918016297447425-6kDI)
 
 ### [Competition and Markets Authority to investigate Google’s ‘Privacy Sandbox’ browser changes](https://www.gov.uk/government/news/cma-to-investigate-google-s-privacy-sandbox-browser-changes)
