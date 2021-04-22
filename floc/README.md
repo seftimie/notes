@@ -1,3 +1,15 @@
+### [Wordpress: Treat FLoC like a security concern](https://make.wordpress.org/core/2021/04/18/proposal-treat-floc-as-a-security-concern/)
+Contrary to headlines, "WordPress" hasn't made any decisions or changes yet with regards to #FLoC. It is more correct to say there is a proposal from a WP contributor to block FLoC by default. [via Matt Mullenweg author of WP](https://twitter.com/photomatt/status/1384197185219170305)
+
+### [Incorrect information about FLoC #Thread](https://twitter.com/Log3overLog2/status/1384337637763387394) 
+Wow there is a lot of incorrect information about FLoC out there today!  Many people complaining that it's based on scooping up your data on all sites, which is extremely not true. [more here](https://twitter.com/Log3overLog2/status/1384337637763387394)
+
+### [Short explanation on FLoC Origin Trial](https://twitter.com/rowan_m/status/1383372223017209857)
+"A short explanation and link to context for those of you who want the technical details on the FLoC Origin Trial". Also you should follow [Rowan Merewood](https://twitter.com/rowan_m) and [Michael Kleber](https://twitter.com/Log3overLog2)
+
+### [How can FLoC (in Origin Trial now) enable a path off third-party cookies?](https://twitter.com/rowan_m/status/1382720868208500742)
+Goals: stop 1:1 tracking, keep personalisation, minimise site disruption. How: drop 1:1 user id cookie Cookie  add 1:many cohort from a FLoC Bird. Result: individual profile not needed, customise to a FLoC instead!
+
 ### [EFF: Am I FLoCed?](https://amifloced.org/)
 > If you have been assigned a FLoC ID, it means that your browser has processed your browsing history and assigned you to a group of “a few thousand” similar users. The FLoC ID is the label for your behavioral group. This numeric label is not meaningful on its own. However, large advertisers (like Google) and websites (like… Google) will be able to analyze traffic from millions of users to figure out what the members of a particular FLoC have in common. Those actors may use your FLoC ID to infer your interests, demographics, or past behavior.
 
